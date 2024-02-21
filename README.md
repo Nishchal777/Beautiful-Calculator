@@ -1,1 +1,1 @@
-# Beautiful-Calculator
+# Calculator
